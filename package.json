@@ -22,7 +22,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "dist/index.js",
+  "main": "dist/dist-src/index.js",
   "scripts": {
     "build": "pika build",
     "build:docs": "fiddly",
