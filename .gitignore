@@ -8,7 +8,6 @@ jspm_packages
 .netlify
 /.coverage
 /pkg
-/dist
 /public
 /build
 /typings
